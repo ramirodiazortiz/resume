@@ -35,5 +35,11 @@ dev: compile
 	stalk -w 1 make $(SRC_DIR)&
 	$(SERVER)
 
-publish:
-	cd $(BUILD_DIR); 
+publish: clean compile
+	cd $(BUILD_DIR) && \
+	git init && \
+	git remote add gh-pages git@github.com:manuelolmos/resume.git && \
+	git add . && \
+	git commit -m 'update resume' && \
+	git push -f gh-pages master:gh-pages
+	echo "check http://manuelolmos.github.io/resume/"
