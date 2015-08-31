@@ -1,7 +1,7 @@
 {
-  "name": "federicocarrone.com",
+  "name": "resume",
   "version": "1.0.0",
-  "description": "Federico Carrone web page",
+  "description": "Manuel Olmos web page",
   "main": "index.js",
   "dependencies": {
     "browser-sync": "^2.8.2",
@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/unbalancedparentheses/federicocarrone.com.git"
+    "url": "git+https://github.com/manuelolmos/resume.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/unbalancedparentheses/federicocarrone.com/issues"
+    "url": "https://github.com/manuelolmos/resume/issues"
   },
-  "homepage": "https://github.com/unbalancedparentheses/federicocarrone.com#readme"
+  "homepage": "https://github.com/manuelolmos/resume#readme"
 }
