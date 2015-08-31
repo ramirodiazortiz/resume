@@ -1,77 +1,86 @@
-#Manuel Olmos
+# Manuel Olmos Gil
+I'm Manuel Olmos Gil, a Buenos Aires based dev. My speciality is iOS and Web Development.
 
-I am Federico Carrone, a developer and system administrator with more than 10 years of experience. I have worked in startups, independently and for top 500 Fortune corporations as a tech lead, developer, sysadmin and also as a tester.
+* iOS Developer (iOS4 - iOS8)
+* Web Developer
 
 ## Contact
-* Email: [federico.carrone@gmail.com](mailto:federico.carrone@gmail.com)
-* Web: [http://www.federicocarrone.com](http://www.federicocarrone.com)
-* Github: [https://github.com/unbalancedparentheses/](https://github.com/unbalancedparentheses)
-* Linkedin: [https://www.linkedin.com/in/federicocarrone](https://www.linkedin.com/in/federicocarrone)
-* Blog: [https://medium.com/this-is-not-a-monad-tutorial](https://medium.com/this-is-not-a-monad-tutorial)
-* Twitter: [https://twitter.com/unbalancedparen](https://twitter.com/unbalancedparen)
+* Mobile: +54 (911) 6007-8332
+* Email: manuolmos88@gmail.com
+* Skype Name: manuolmos88
 
 ## Experience
 
-###Freelance
+###Plusnewmedia.
+iOS Developer 2014 - August 2015
 
+* Developed an apps that show content from a CMS (videos, images, pdf's). Manage contacts and share files via cms. Supporting multiple languages such as Mandarin.
 
-###Inaka
-####Developer, 2013 - 2014
+* Built a registration module for a corporate app.
 
-**Technologies**: Erlang, Ruby, Python, Javascript, Elasticsearch, Cassandra, Redis, PostgreSQL, Docker, Ansible, AWS
+* Created app for exposition showing 360 images of the yatchs.
 
-- Designed, estimated, implemented, maintained, tested new and established products for startups and companies.
-- Worked mostly on the backend services and the administration web sites, generally implementing RESTful JSON APIs and internal microservices
+* Mantainment company certificates, provisioning profiles and distribution of 	apps.
 
-###Willdom
-####Technical leader, 2011 - 2013
+* Improved development process, introducing Scrum.
 
-**Technologies**: Ruby, Rails, Python, Javascript, Node.js, AngularJS, Selenium, Java, Perl, Ansible, Jenkins, AWS, SmartOS, FreeBSD
+### Willdom.
+Web and iOS Developer 2012 – Present
 
-- Designed, developed and led bootstrapped startup.
-- Managed and trained multiple development teams. Interpreted technical requirements of our clients and executed the corresponding recruitment. Provided constant technical support for developers and system administrators of the company.
+* Developed for a customer an html reader app with custom indexes and search bar for iPad using iOS7
+* Developed an iPhone app on iOS7 that shows statistics and news of a soccer team
 
-###Enratio
-####Development team leader, 2011
+* Interpreted initial technical requirements of our clients and executed the corresponding technical recruitment for web development and iOS projects
 
-**Technologies**: Ruby, Rails, Javascript, Sproutcore/Ember, AWS
+* Programmed a web app that shares photos for voting which was coded with backbone.js, Parse, LESS, javascript and CSS. It also had support on Mobile devices. Built Facebook apps and Wordpress plugins with Heroku, NodeJS, PHP, Javascript and JQuery
 
-- Developed application for generating reports about the status of a web page using Ruby, Ruby on Rails, Sproutcore, Javascript and ExtJS
-- Trained a team of developers in  Ruby and Ruby on Rails for working with the biggest airline metasearch engine in Latin America
+* Team leader of 10 QA Manual testers for a stress testing Game, Magicka Wizard Wars. Using Scrum and Jira
 
-###Avaya
-####Modular Messaging Tier 3 Engineer, 2010
+* Developed an automation suite platform that built - using Python, Chef, Fabric, Jenkins -, tested - using Cucumber (BDD), Watir-webdriver, Selenium, Selenium Grid, Page objects - and generated functional and performance reports - using Ruby - for a complex monitoring system developed with Java, JBoss, Perl, Javascript and JQuery
 
-**Technologies**: Linux, Windows Server
+### FDV Solutions.
+iOS Developer 2011-2012
 
-* Administration, troubleshooting (log analysis, performance tuning, problems in integrations with PBXs) and technical support for messaging application, Windows and Linux servers.
+* Programmed an iPhone app of funny Ecards (birthday, thank you and anniversary greeting cards) with sharing possibilities by twitter, facebook, sms and email
 
-###Faculty of Engineering, University of Buenos Aires
-####Teaching Assistant, 2007 – 2011
+* Built an iPhone app that shares status of campaigns by twitter and facebook
 
-**Technologies:** Pascal, C, Python
+* Developed an iPhone/iPad app that combines the best parts of email, text messaging, and Twitter. Like email, Shortmail lets you communicate with anyone who has an email address — one-to-one or as a group
 
-* Teaching assistant of programming course for first year students of Computer Engineering carrer using Pascal, C and Python to teach basic algorithms and data structures.
+* Supply maintenance on United Nations Foundation and Pieces of Peace iPhone app
 
-###HP - Sun Microsystems/Oracle
-####Solaris/Unix System Administrator, 2009  2010
+## Technologies
+* iOS4-iOS8
+* Objective-C, Ruby, C++, C, Java, Javascript, Python, Bash
+* HTML, CSS, Jade, Less, Bootstrap, Coffeescript
+* Yeoman, Bower, Docpad, Component
+* Watir-Webdriver, Selenium Grid, Cucumber, PageObjects
+* Angular, NodeJs
+* APIs: facebook, twitter, github
 
-* Administration of the full range of Sun Microsystems Solaris's servers.
+## Enviroment and Tools
+* Linux, Mac OS
+* Git/Github, subversion
+* vim, sublime,
+* rvm, npm
+* bash shell, zsh
+* Amazon Web Services (EC2, S3)
+* Jenkins
+* xCode, eclipse
 
-###Instituto Nuestra Señora de Las Nieves
-####Computer Science Teacher 2008
+## Methodologies
+* Scrum
+* Kanban
+* BDD/TDD
+* Continues integration
+* Gitflow, Long-Running Branches, Topic Branches
 
-* Teacher of computer science for last year high scool's students.
+## Skills
+* Fast Learner
+* Backend and frontend web development
+* Lead development projects. Manage the communication between the Client and the Team
 
-###TECNA
-####Network Technician 2005 - 2006
-
-* Server and network administration.
-
-##Profiencies
-
-**Technologies:** Erlang, Ruby, Python, Javascript, Go, C, C++, Java, SQL, Elasticsearch, Redis, Cassandra, Riak
-
-**Infrastructure:** Linux, BSD, Ansible, Docker, SmartOS, AWS, Digital Ocean
-
-**Interests:** Functional programming (Erlang, Lisp, OCaml, Elm, Haskell), Distributed systems, Language design and implementation, Kernel programming, Design
+## Interests
+* Ruby on Rails
+* Erlang
+* Haskell
