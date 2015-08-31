@@ -23,7 +23,8 @@ deps:
 
 clean:
 	rm -rf $(BUILD_DIR)/*
-
+	rm -rf $(BUILD_DIR)/.git
+	
 compile:
 	mkdir -p $(BUILD_DIR)
 	cp $(SRC_DIR)/$(FONTS) $(BUILD_DIR)/
