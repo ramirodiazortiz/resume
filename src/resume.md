@@ -11,7 +11,7 @@ I'm Manuel Olmos Gil, a Buenos Aires based dev. My speciality is iOS and Web Dev
 
 ## Experience
 
-###Plusnewmedia.
+###Plusnewmedia
 iOS Developer 2014 - August 2015
 
 * Developed an apps that show content from a CMS (videos, images, pdf's). Manage contacts and share files via cms. Supporting multiple languages such as Mandarin.
@@ -24,8 +24,8 @@ iOS Developer 2014 - August 2015
 
 * Improved development process, introducing Scrum.
 
-### Willdom.
-Web and iOS Developer 2012 – Present
+### Willdom
+Web and iOS Developer 2012 – 2013
 
 * Developed for a customer an html reader app with custom indexes and search bar for iPad using iOS7
 * Developed an iPhone app on iOS7 that shows statistics and news of a soccer team
@@ -38,8 +38,8 @@ Web and iOS Developer 2012 – Present
 
 * Developed an automation suite platform that built - using Python, Chef, Fabric, Jenkins -, tested - using Cucumber (BDD), Watir-webdriver, Selenium, Selenium Grid, Page objects - and generated functional and performance reports - using Ruby - for a complex monitoring system developed with Java, JBoss, Perl, Javascript and JQuery
 
-### FDV Solutions.
-iOS Developer 2011-2012
+### FDV Solutions
+iOS Developer 2011 - 2012
 
 * Programmed an iPhone app of funny Ecards (birthday, thank you and anniversary greeting cards) with sharing possibilities by twitter, facebook, sms and email
 
@@ -52,11 +52,7 @@ iOS Developer 2011-2012
 ## Technologies
 * iOS4-iOS8
 * Objective-C, Ruby, C++, C, Java, Javascript, Python, Bash
-* HTML, CSS, Jade, Less, Bootstrap, Coffeescript
-* Yeoman, Bower, Docpad, Component
-* Watir-Webdriver, Selenium Grid, Cucumber, PageObjects
-* Angular, NodeJs
-* APIs: facebook, twitter, github
+* Frontend web
 
 ## Enviroment and Tools
 * Linux, Mac OS
@@ -67,20 +63,3 @@ iOS Developer 2011-2012
 * Amazon Web Services (EC2, S3)
 * Jenkins
 * xCode, eclipse
-
-## Methodologies
-* Scrum
-* Kanban
-* BDD/TDD
-* Continues integration
-* Gitflow, Long-Running Branches, Topic Branches
-
-## Skills
-* Fast Learner
-* Backend and frontend web development
-* Lead development projects. Manage the communication between the Client and the Team
-
-## Interests
-* Ruby on Rails
-* Erlang
-* Haskell
