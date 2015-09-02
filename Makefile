@@ -30,6 +30,7 @@ compile:
 	cp $(SRC_DIR)/$(FONTS) $(BUILD_DIR)/
 	$(STYLUS) $(SRC_DIR)/$(STYLE_STYL) -o $(BUILD_DIR)/$(STYLE_CSS)
 	$(PANDOC) --template $(SRC_DIR)/$(RESUME_TMPL) $(SRC_DIR)/$(RESUME_MD) > $(BUILD_DIR)/$(RESUME_HTML)
+	$(PANDOC) $(SRC_DIR)/$(RESUME_MD) -o $(BUILD_DIR)/$(RESUME_PDF)
 	$(PANDOC) -s -S $(SRC_DIR)/$(RESUME_MD) -o $(BUILD_DIR)/$(RESUME_DOCX)
 
 dev: compile
