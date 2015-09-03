@@ -6,7 +6,9 @@ I'm Manuel Olmos Gil, a Buenos Aires based dev. My speciality is iOS and Web Dev
 
 ## Contact
 * Mobile: +54 (911) 6007-8332
-* Email: manuolmos88@gmail.com
+* Email: [manuolmos88@gmail.com](mailto:manuolmos88@gmail.com)
+* Github: [https://github.com/manuelolmos](https://github.com/manuelolmos)
+* Linkedin: [https://ar.linkedin.com/pub/manuel-olmos-gil/23/728/814](https://ar.linkedin.com/pub/manuel-olmos-gil/23/728/814)
 * Skype Name: manuolmos88
 
 ## Experience
