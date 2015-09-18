@@ -1,17 +1,26 @@
 # Manuel Olmos Gil
-I'm Manuel Olmos Gil, a Buenos Aires based dev. My speciality is iOS and Web Development.
+I'm Manuel Olmos Gil, a Buenos Aires based dev. My speciality is iOS and backend development
 
-* iOS Developer (iOS4 - iOS8)
-* Web Developer
+* iOS Developer (iOS4 - iOS9)
+* Backend Developer
 
 ## Contact
 * Mobile: +54 (911) 6007-8332
 * Email: [manuolmos88@gmail.com](mailto:manuolmos88@gmail.com)
-* Github: [https://github.com/manuelolmos](https://github.com/manuelolmos)
 * Linkedin: [https://ar.linkedin.com/pub/manuel-olmos-gil/23/728/814](https://ar.linkedin.com/pub/manuel-olmos-gil/23/728/814)
 * Skype Name: manuolmos88
 
 ## Experience
+
+###Freelance
+Backend Developer 2014 - Present
+
+* Development and maintenance of backends application coded in Ruby and Erlang
+
+###Lambdaclass
+Developer August 2015 - Present
+
+* Development of iPhone and iPad apps with more than 50k active users.
 
 ###Plusnewmedia
 iOS Developer 2014 - August 2015
@@ -59,7 +68,7 @@ iOS Developer 2011 - 2012
 ## Enviroment and Tools
 * Linux, Mac OS
 * Git/Github, subversion
-* vim, sublime,
+* vim, sublime
 * rvm, npm
 * bash shell, zsh
 * Amazon Web Services (EC2, S3)
