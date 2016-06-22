@@ -12,15 +12,21 @@ I'm Manuel Olmos Gil, a Buenos Aires based dev. My speciality is iOS and backend
 
 ## Experience
 
-###Freelance
-Backend Developer 2014 - Present
-
-* Development and maintenance of backends application coded in Ruby and Erlang
-
 ###Lambdaclass
-Developer August 2015 - Present
+Erlang & iOS Developer August 2015 - Present
+
+* Built iOS app in Swift2.1 to buy clothes for different countries. Adding clothes as favorites.
+
+* Development of messaging backend for more than 100k users and iOS app with Websockets protocol. Writen in Erlang using Cassandra, Elastic search and Kafka.
+
+* Development iOS app for dating and making friends.
 
 * Development of iPhone and iPad apps with more than 50k active users.
+
+###Freelance
+Erlang & iOS Developer 2014 - Present
+
+* Development and maintenance of backends application coded in Ruby and Erlang
 
 ###Plusnewmedia
 iOS Developer 2014 - August 2015
@@ -61,13 +67,15 @@ iOS Developer 2011 - 2012
 * Supply maintenance on United Nations Foundation and Pieces of Peace iPhone app
 
 ## Technologies
-* iOS4-iOS8
-* Objective-C, Ruby, C++, C, Java, Javascript, Python, Bash
+* iOS4-iOS9
+* Objective-C, Swift, Erlang, Ruby, C++, C, Java, Javascript, Python, Bash
 * Frontend web
 
 ## Enviroment and Tools
 * Linux, Mac OS
 * Git/Github, subversion
+# Cassandra
+# Postfix
 * vim, sublime
 * rvm, npm
 * bash shell, zsh
