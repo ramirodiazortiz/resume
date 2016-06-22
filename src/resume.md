@@ -74,8 +74,8 @@ iOS Developer 2011 - 2012
 ## Enviroment and Tools
 * Linux, Mac OS
 * Git/Github, subversion
-# Cassandra
-# Postfix
+* Cassandra
+* Postfix
 * vim, sublime
 * rvm, npm
 * bash shell, zsh
