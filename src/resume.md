@@ -12,10 +12,10 @@ I'm Manuel Olmos Gil, a Buenos Aires based dev. My speciality is iOS and backend
 
 ## Experience
 
-###Publishers Clearing House
+### Publishers Clearing House
 iOS Developer July 2016 - Present
 
-###Lambdaclass
+### Lambdaclass
 Erlang & iOS Developer August 2015 - Present
 
 * Built iOS app in Swift2.1 to buy clothes for different countries. Adding clothes as favorites.
@@ -26,12 +26,12 @@ Erlang & iOS Developer August 2015 - Present
 
 * Development of iPhone and iPad apps with more than 50k active users.
 
-###Freelance
+### Freelance
 Erlang & iOS Developer 2014 - Present
 
 * Development and maintenance of backends application coded in Ruby and Erlang
 
-###Plusnewmedia
+### Plusnewmedia
 iOS Developer 2014 - August 2015
 
 * Developed an apps that show content from a CMS (videos, images, pdf's). Manage contacts and share files via cms. Supporting multiple languages such as Mandarin.
