@@ -1,7 +1,7 @@
 # Manuel Olmos Gil
 I'm Manuel Olmos Gil, a Buenos Aires based dev. My speciality is iOS and backend development
 
-* iOS Developer (iOS4 - iOS9)
+* iOS Developer (iOS4 - present)
 * Backend Developer
 
 ## Contact
@@ -11,6 +11,9 @@ I'm Manuel Olmos Gil, a Buenos Aires based dev. My speciality is iOS and backend
 * Skype Name: manuolmos88
 
 ## Experience
+
+###Publishers Clearing House
+iOS Developer July 2016 - Present
 
 ###Lambdaclass
 Erlang & iOS Developer August 2015 - Present
