@@ -1,5 +1,5 @@
 # Manuel Olmos Gil
-I'm Manuel Olmos Gil, Buenos Aires based dev. My speciality is iOS dev and i've also have backend background.
+I'm Manuel Olmos Gil, Buenos Aires based dev. My speciality is iOS Development and i've also have backend background.
 
 * iOS Developer
 * Backend Developer

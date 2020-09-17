@@ -15,6 +15,9 @@ PANDOC = pandoc
 STYLUS = ./node_modules/stylus/bin/stylus
 SERVER = ./node_modules/browser-sync/bin/browser-sync.js start --reload-delay 500 --files $(BUILD_DIR) --server $(BUILD_DIR) --port 8000
 
+TITLE = "Manuel Olmos Gil"
+GITHUB_USER = manuelolmos
+
 default: compile
 
 deps:
@@ -29,7 +32,7 @@ compile:
 	mkdir -p $(BUILD_DIR)
 	cp $(SRC_DIR)/$(FONTS) $(BUILD_DIR)/
 	$(STYLUS) $(SRC_DIR)/$(STYLE_STYL) -o $(BUILD_DIR)/$(STYLE_CSS)
-	$(PANDOC) --metadata title="Manuel Olmos Gil" --template $(SRC_DIR)/$(RESUME_TMPL) $(SRC_DIR)/$(RESUME_MD) > $(BUILD_DIR)/$(RESUME_HTML)
+	$(PANDOC) --metadata title=$(TITLE) --template $(SRC_DIR)/$(RESUME_TMPL) $(SRC_DIR)/$(RESUME_MD) > $(BUILD_DIR)/$(RESUME_HTML)
 	$(PANDOC) $(SRC_DIR)/$(RESUME_MD) -o $(BUILD_DIR)/$(RESUME_PDF)
 	$(PANDOC) -s $(SRC_DIR)/$(RESUME_MD) -o $(BUILD_DIR)/$(RESUME_DOCX)
 
@@ -40,8 +43,8 @@ dev: compile
 publish: clean compile
 	cd $(BUILD_DIR) && \
 	git init && \
-	git remote add gh-pages git@github.com:manuelolmos/resume.git && \
+	git remote add gh-pages git@github.com:$(GITHUB_USER)/resume.git && \
 	git add . && \
 	git commit -m 'update resume' && \
 	git push -f gh-pages master:gh-pages
-	echo "check http://manuelolmos.github.io/resume/"
+	echo "check http://$(GITHUB_USER).github.io/resume/"
