@@ -16,7 +16,7 @@ iOS Developer July 2016 - Present
 
 * PCHApp - Built from scratch iOS Swift app based on mini web games and native slot machine game. Over 60k DAU for almost 3 years. Users were able to win tokens, submit entries and win big prizes. Developed user level VIP/VIP elite experience, create native animations (with UIKit, CoreAnimation, Lottie).
 
-* Quizmania, quiz app that let user win tokens & money with q&a, and other game contests.
+* Quizmania - Quiz app that let user win tokens & money with q&a, and other game contests.
 
 * SlotsApp - Extract part of PCHApp, migrate web registration module and make it native. We've also done the same for token exchange.
 
