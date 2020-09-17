@@ -1,22 +1,24 @@
 # Manuel Olmos Gil
-I'm Manuel Olmos Gil, a Buenos Aires based dev. My speciality is iOS and backend development
+I'm Manuel Olmos Gil, Buenos Aires based dev. My speciality is iOS dev and i've also have backend background.
 
-* iOS Developer (iOS4 - present)
+* iOS Developer
 * Backend Developer
 
 ## Contact
 * Mobile: +54 (911) 6007-8332
 * Email: [manuolmos88@gmail.com](mailto:manuolmos88@gmail.com)
-* Linkedin: [https://ar.linkedin.com/pub/manuel-olmos-gil/23/728/814](https://ar.linkedin.com/pub/manuel-olmos-gil/23/728/814)
-* Skype Name: manuolmos88
+* Linkedin: [www.linkedin.com/in/manuel-olmos-gil](www.linkedin.com/in/manuel-olmos-gil)
 
 ## Experience
 
 ### Publishers Clearing House
 iOS Developer July 2016 - Present
+* PCHApp - Built from scratch iOS Swift app based on mini web games and native slot machine game. Over 60k DAU for almost 3 years. Users were able to win tokens, submit entries and win big prizes. Developed user level VIP/VIP elite experience, create native animations (with UIKit, CoreAnimation, Lottie).
+* Quizmania, quiz app that let user win tokens & money with q&a, and other game contests.
+* SlotsApp - Extract part of PCHApp, migrate web registration module and make it native. We've also done the same for token exchange.
 
 ### Lambdaclass
-Erlang & iOS Developer August 2015 - Present
+Co-founder and Developer (Erlang & iOS) August 2015 - August 2017
 
 * Built iOS app in Swift2.1 to buy clothes for different countries. Adding clothes as favorites.
 
@@ -27,9 +29,11 @@ Erlang & iOS Developer August 2015 - Present
 * Development of iPhone and iPad apps with more than 50k active users.
 
 ### Freelance
-Erlang & iOS Developer 2014 - Present
+Erlang & iOS Developer 2014 - August 2014 - August 2015
 
 * Development and maintenance of backends application coded in Ruby and Erlang
+
+* Developed iOS app to submit match predictions on the football World Cup 2014
 
 ### Plusnewmedia
 iOS Developer 2014 - August 2015
@@ -45,9 +49,10 @@ iOS Developer 2014 - August 2015
 * Improved development process, introducing Scrum.
 
 ### Willdom
-Web and iOS Developer 2012 – 2013
+QA Engineer, Web and iOS Developer 2012 – 2013
 
 * Developed for a customer an html reader app with custom indexes and search bar for iPad using iOS7
+
 * Developed an iPhone app on iOS7 that shows statistics and news of a soccer team
 
 * Interpreted initial technical requirements of our clients and executed the corresponding technical recruitment for web development and iOS projects
@@ -70,8 +75,7 @@ iOS Developer 2011 - 2012
 * Supply maintenance on United Nations Foundation and Pieces of Peace iPhone app
 
 ## Technologies
-* iOS4-iOS9
-* Objective-C, Swift, Erlang, Ruby, C++, C, Java, Javascript, Python, Bash
+* Objective-C, Swift, Erlang, Ruby, Python, Bash
 * Frontend web
 
 ## Enviroment and Tools
@@ -80,7 +84,7 @@ iOS Developer 2011 - 2012
 * Cassandra
 * Postfix
 * vim, sublime
-* rvm, npm
+* cocoa-pods, carthage, rvm, npm
 * bash shell, zsh
 * Amazon Web Services (EC2, S3)
 * Jenkins
