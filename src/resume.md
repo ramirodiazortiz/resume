@@ -1,94 +1,152 @@
-# Manuel Olmos Gil
-I'm Manuel Olmos Gil, Buenos Aires based dev. My speciality is iOS Development and i've also have backend background.
+# Ramiro Díaz Ortiz
+*iOS Technical Leader & Android Developer*
 
-* iOS Developer
-* Backend Developer
+## Personal Info
 
-## Contact
-* Mobile: +54 (911) 6007-8332
-* Email: [manuolmos88@gmail.com](mailto:manuolmos88@gmail.com)
-* Linkedin: [www.linkedin.com/in/manuel-olmos-gil](www.linkedin.com/in/manuel-olmos-gil)
+* Date of birth: 30/01/1989
+* Location: Buenos Aires, Argentina
+* Spanish / English
+
+Contact: 
+
+* Mobile: +54 (911) 3758-7208
+* [ramiro.do@gmail.com](mailto: ramiro.do@gmail.com)
+* [Linkedin](https://www.linkedin.com/in/ramiro-d%C3%ADaz-ortiz-3bb98245/)
+
+
+## Overview
+I'm a highly detailed profile, oriented not only to results related to mobile development but also to management, technical and leadership commitment.
+
+I'm usually part of each phase involved in software development, including the analysis of new features or changes, the detection and management of risks, the design of the architecture and the development itself. Quality is a key during this process.
+
+On the soft side, I find both communication and proactivity as some of my most valuable skills. I do believe in earning trust by showing loyalty to what it's important to the business. I'm also focused on ensuring every policy, procedure and development standard. My goal is to always show flexibility to respond to every single needs of the business.
+
+## Education
+* Software Engineering (2016)
+* Universidad de Buenos Aires
+
+
+## Languages 
+Swift, Objective C (iOS), Java and Kotlin (Android), C++, PHP, MySql. I have also minor experience in  C, Perl, Bash, Python and Smalltalk
+
+
+## General development skills
+
+* Advanced experience with Object Oriented Programming.
+* Advanced experience modeling and analyzing mobile software architectures.
+* Strong skills building native iOS applications based on iOS sdk. 
+* Good skills building native Android applications based on Android sdk. 
+* Advanced experience creating user interfaces.
+* Advanced knowledge on iOS and Android user experience guidelines.
+* Advanced skills in Xcode, Android Studio, PHPStorm, IntelliJ and Eclipse.
+* Advanced experience in architectures for network layers.
+* Agile development
+
+
+## Main iOS Frameworks & tools:
+* Advanced experience working with Foundation, CoreLocation, CFNetwork, MapKit, Social, UIKit and Twitter frameworks
+* Experience working with AddressBook, AVKit, CoreGraphics, ImageIO, QuartzCore and QuickLook frameworks.
+* Advanced experience working with adaptive layout.
+* Advanced experience working with both UIView and Core animations.
+* Advanced experience in automating UI tests for iOS applications.
+* Advanced experience working with accessibility features.
+* Experience using distribution tools like HockeyApp and Testflight.
+* Advance experience using CocoaPods and Carthage, as a method to distribute frameworks.
+* Experience with local and remote notifications.
+* Experience using instruments
+* Strong skills publishing applications to both stores.
+
+
+## Other Frameworks / technical skills / relevant tools
+* Relevant skill using djinni, a tool created by Dropbox for generating cross-language bridge code (to be reused by both iOS and Android)
+* Experience using Lottie Framework, used to render After Effects animations. 
+* Experience using Fabric (Firebase)
+* Experience using both Leanplum and Mixpanel, a mobile framework used for analytics, A/B testing, push notifications, marketing, in-app messaging and so on.
+* Experience using Pusher, a framework to create real time applications.
+* Relevant experience working with relational databases.
+* Advanced experience using different ad providers (Mopub, Nimbus, AppNexus, Facebook Ads, Google Ads, etc)
+* Jira, VersionOne, Trello.
+* InVision and Adobe Xd
+
+## Soft skills
+* Strong capacity for planning
+* Team leading
+* Management
+* Scrum
+* Strong communication
+* Recruiting process
+* Ability to create plans for project development
+* Periodic team review (feedback for each member of the team, based on both soft and technical skills).
+* Review of career plans
+
+
+## Platforms & Tools
+* OS X, Linux, Windows.
+* xCode, Android Studio, Eclipse, IntelliJ IDEA
+* Git (+Github, +GitLab), SVN 
+* Postman
+* vim, sublime
+* cocoa-pods, carthage
 
 ## Experience
 
-### Publishers Clearing House
-iOS Developer July 2016 - Present
+### Publishers Clearing House (August 2017 - present)
 
-* PCHApp - Built from scratch iOS Swift app based on mini web games and native slot machine game. Over 60k DAU for almost 3 years. Users were able to win tokens, submit entries and win big prizes. Developed user level VIP/VIP elite experience, create native animations (with UIKit, CoreAnimation, Lottie).
+_iOS Technical Leader_
 
-* Quizmania - Quiz app that let user win tokens & money with q&a, and other game contests.
+Architect of the main features for every iOS app in the company. Technical leader. Argentinian Team leader.
 
-* SlotsApp - Extract part of PCHApp, migrate web registration module and make it native. We've also done the same for token exchange.
+### Publishers Clearing House (August 2016 - present)
 
-### Lambdaclass
-Co-founder and Developer (Erlang & iOS) August 2015 - August 2017
+_iOS & Android Developer_
 
-* Built iOS app in Swift2.1 to buy clothes for different countries. Adding clothes as favorites.
+* **PCH App:** iOS Swift app based on both web and native games that allow the user to register and win tokens/cash that can be used within the platform. Over 60k DAU for almost 3 years. I was in charge of the main architecture / features of the app.
 
-* Development of messaging backend for more than 100k users and iOS app with Websockets protocol. Writen in Erlang using Cassandra, Elastic search and Kafka.
+* **Quizmania:** allow the user to play real time quiz contests by using web sockets. Team leader (10+ people)
 
-* Development iOS app for dating and making friends.
+* **Slots App:** part of PCH app, extracted as a standalone game.
 
-* Development of iPhone and iPad apps with more than 50k active users.
 
-### Freelance
-Erlang & iOS Developer 2014 - August 2014 - August 2015
+### Freelance  (June 2014 - Present)
+_Mobile Developer_
 
-* Development and maintenance of backends application coded in Ruby and Erlang
+* **Football Challenge:** iOS application to bet and share the results of the 2014 FIFA World Cup games. FootballChallenge allowed the users to select a team to follow up and add its matches to the native calendar. Besides, the application shows a leaderboard based on a top ten ranking. Users were able to login through Facebook and Twitter. 
 
-* Developed iOS app to submit match predictions on the football World Cup 2014
+* **Beutybooked:** app that provides access to the best salons and spas. Within the application, you were able to search for salons and spas using a wide variety of criterias, including the name, location, date and time. Moreover, you were able to book appointments instantly.
 
-### Plusnewmedia
-iOS Developer 2014 - August 2015
+	Provided support in order to stabilize the application.
+Fixed several errors related to the user interface, which was developed entirely programmatically. 
 
-* Developed an apps that show content from a CMS (videos, images, pdf's). Manage contacts and share files via cms. Supporting multiple languages such as Mandarin.
+**I’m also working with different US clients as a freelance consultant (for both iOS and Android applications).**
 
-* Built a registration module for a corporate app.
 
-* Created app for exposition showing 360 images of the yatchs.
+### Avature (June 2013 - June 2016)
+_Mobile Developer_
 
-* Mantainment company certificates, provisioning profiles and distribution of 	apps.
+* **Avature Mobile App:** iOS main developer and mobile core developer (shared by both iOS and Android applications). Backend developer for API’s consumed by mobile application.
 
-* Improved development process, introducing Scrum.
+	The application is an extension of the Avature CRM platform that brings a new level of usability for the Events Management and Hiring Manager solutions. This application synchronizes the information with the Avature platform and can be used both online and offline. People records created during events can also be registered in offline mode. 
 
-### Willdom
-QA Engineer, Web and iOS Developer 2012 – 2013
+	Each module of the application can create people records according to a fully-customized form pre-defined using the CRM. Moreover, people records can be displayed using different levels of details.
+The application has the capability of displaying multiple files types. Many parts of the application can be personalized according to the brand.
 
-* Developed for a customer an html reader app with custom indexes and search bar for iPad using iOS7
 
-* Developed an iPhone app on iOS7 that shows statistics and news of a soccer team
+### FDV Solutions (April 2011 - April 2013)
+_iOS Developer _
 
-* Interpreted initial technical requirements of our clients and executed the corresponding technical recruitment for web development and iOS projects
+* **AMC Theaters:** iOS main developer. The goal was to update the old version of the application from scratch.  Participated actively during the whole process, from the very first technical meetings up to the final delivery. The application, available in Apple Store, lets you find theatres using your current location or your zip code. Besides, you can find movies according to your favourites genres, take a look at the synopses and trailers and also buy tickets. 
+Developed the main architecture, including the networking layer. Moreover, I added some features related to augmented reality, using Aurasma SDK.
 
-* Programmed a web app that shares photos for voting which was coded with backbone.js, Parse, LESS, javascript and CSS. It also had support on Mobile devices. Built Facebook apps and Wordpress plugins with Heroku, NodeJS, PHP, Javascript and JQuery
+* **Someecards:**
+Support provided, including new features. With the application you can view and share different types of funny cards. Besides, you can save cards as favorite.
+The goal was to enjoy the same cards categories as there were offered on the site.
 
-* Team leader of 10 QA Manual testers for a stress testing Game, Magicka Wizard Wars. Using Scrum and Jira
+* **ROOST:**
+iOS developer. Roost is a social marketing platform thought to launch different campaigns through social networks like Twitter, Facebook and Linkedin, getting results according to the impact of the campaign.
 
-* Developed an automation suite platform that built - using Python, Chef, Fabric, Jenkins -, tested - using Cucumber (BDD), Watir-webdriver, Selenium, Selenium Grid, Page objects - and generated functional and performance reports - using Ruby - for a complex monitoring system developed with Java, JBoss, Perl, Javascript and JQuery
+* **United Nation Foundation App:** iOS developer.
+The United Nation Foundation is a mobile application that allows people to get information about initiatives that are improving children’s health, empowering women and girls, combating climate change, etc. Within the application, people can donate and support differents campaigns.
 
-### FDV Solutions
-iOS Developer 2011 - 2012
+	The iOS application was compatible with the accessibility features. 
+Also, I participated in the maintenance of the Pieces of Peace iPhone app.
 
-* Programmed an iPhone app of funny Ecards (birthday, thank you and anniversary greeting cards) with sharing possibilities by twitter, facebook, sms and email
-
-* Built an iPhone app that shares status of campaigns by twitter and facebook
-
-* Developed an iPhone/iPad app that combines the best parts of email, text messaging, and Twitter. Like email, Shortmail lets you communicate with anyone who has an email address — one-to-one or as a group
-
-* Supply maintenance on United Nations Foundation and Pieces of Peace iPhone app
-
-## Technologies
-* Objective-C, Swift, Erlang, Ruby, Python, Bash
-* Frontend web
-
-## Enviroment and Tools
-* Linux, Mac OS
-* Git/Github, subversion
-* Cassandra
-* Postfix
-* vim, sublime
-* cocoa-pods, carthage, rvm, npm
-* bash shell, zsh
-* Amazon Web Services (EC2, S3)
-* Jenkins
-* xCode, eclipse

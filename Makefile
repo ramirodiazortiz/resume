@@ -15,13 +15,12 @@ PANDOC = pandoc
 STYLUS = ./node_modules/stylus/bin/stylus
 SERVER = ./node_modules/browser-sync/bin/browser-sync.js start --reload-delay 500 --files $(BUILD_DIR) --server $(BUILD_DIR) --port 8000
 
-TITLE = "Manuel Olmos Gil"
-GITHUB_USER = manuelolmos
+TITLE = "Ramiro Diaz Ortiz"
+GITHUB_USER = ramirodiazortiz
 
 default: compile
 
 deps:
-	cabal install pandoc
 	npm install
 
 clean:

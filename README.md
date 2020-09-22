@@ -1,4 +1,4 @@
-# Manuel Olmos Gil Resume
+# Ramiro Diaz Ortiz Resume
 
 ## Dependencies
 - cabal
