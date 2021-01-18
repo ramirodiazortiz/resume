@@ -90,13 +90,15 @@ Swift, Objective C (iOS), Java and Kotlin (Android), C++, PHP, MySql. I have als
 
 ## Experience
 
-### Publishers Clearing House (August 2017 - present)
+### iOS Engineer for Amazon Ring (Deviget LLC) (November 2020 - present)
+
+### Publishers Clearing House (August 2017 - November 2020)
 
 _iOS Technical Leader_
 
 Architect of the main features for every iOS app in the company. Technical leader. Argentinian Team leader.
 
-### Publishers Clearing House (August 2016 - present)
+### Publishers Clearing House (August 2016 - November 2020)
 
 _iOS & Android Developer_
 
