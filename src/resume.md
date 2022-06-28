@@ -41,6 +41,7 @@ Swift, Objective C (iOS), Java and Kotlin (Android), C++, PHP, MySql. I have als
 * Advanced skills in Xcode, Android Studio, PHPStorm, IntelliJ and Eclipse.
 * Advanced experience in architectures for network layers.
 * Agile development
+* MVVM Architecture
 
 
 ## Main iOS Frameworks & tools:
@@ -55,6 +56,7 @@ Swift, Objective C (iOS), Java and Kotlin (Android), C++, PHP, MySql. I have als
 * Experience with local and remote notifications.
 * Experience using instruments
 * Strong skills publishing applications to both stores.
+* Combine
 
 
 ## Other Frameworks / technical skills / relevant tools
@@ -66,7 +68,7 @@ Swift, Objective C (iOS), Java and Kotlin (Android), C++, PHP, MySql. I have als
 * Relevant experience working with relational databases.
 * Advanced experience using different ad providers (Mopub, Nimbus, AppNexus, Facebook Ads, Google Ads, etc)
 * Jira, VersionOne, Trello.
-* InVision and Adobe Xd
+* InVision, Figma and Adobe Xd
 
 ## Soft skills
 * Strong capacity for planning
@@ -90,9 +92,9 @@ Swift, Objective C (iOS), Java and Kotlin (Android), C++, PHP, MySql. I have als
 
 ## Experience
 
-### iOS Manager for Airtime (June 2020 - June 2021)
+### iOS Manager for Airtime (June 2021 - June 2022)
 
-### iOS Engineer for Amazon Ring (Deviget LLC) (November 2020 - June 2020)
+### iOS Engineer for Amazon Ring (Deviget LLC) (November 2020 - June 2021)
 
 ### Publishers Clearing House (August 2017 - November 2020)
 
