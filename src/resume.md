@@ -90,7 +90,9 @@ Swift, Objective C (iOS), Java and Kotlin (Android), C++, PHP, MySql. I have als
 
 ## Experience
 
-### iOS Engineer for Amazon Ring (Deviget LLC) (November 2020 - present)
+### iOS Manager for Airtime (June 2020 - June 2021)
+
+### iOS Engineer for Amazon Ring (Deviget LLC) (November 2020 - June 2020)
 
 ### Publishers Clearing House (August 2017 - November 2020)
 
