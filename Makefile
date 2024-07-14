@@ -45,5 +45,5 @@ publish: clean compile
 	git remote add gh-pages git@github.com:$(GITHUB_USER)/resume.git && \
 	git add . && \
 	git commit -m 'update resume' && \
-	git push -f gh-pages master:gh-pages
+	git push -f gh-pages main:gh-pages
 	echo "check http://$(GITHUB_USER).github.io/resume/"

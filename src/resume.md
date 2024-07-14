@@ -98,10 +98,10 @@ I thrive in dynamic environments, leveraging my strong communication and proacti
 
 ## Experience
 
-### HWD (now Door) (August 2022 - present)
+### Honest Day's Work (now Door) (August 2022 - present)
 *iOS Lead Engineer*
 
-As the iOS Lead Engineer at HWD, now Door, I am responsible for end-to-end implementations, architecture design, and CI/CD pipeline setups. I also lead the implementation of tooling and manage the interviewing process for new hires. My leadership responsibilities include planning in conjunction with the product team, and ensuring the technical excellence of our iOS applications.
+As the iOS Lead Engineer at Honest Day's Work, now Door, I am responsible for end-to-end implementations, architecture design, and CI/CD pipeline setups. I also lead the implementation of tooling and manage the interviewing process for new hires. My leadership responsibilities include planning in conjunction with the product team, and ensuring the technical excellence of our iOS applications.
 
 ### Airtime (June 2021 - June 2022)
 *iOS Manager*
@@ -111,7 +111,7 @@ As the iOS Lead Engineer at HWD, now Door, I am responsible for end-to-end imple
 ### Amazon Ring (November 2020 - June 2021)
 *iOS Engineer*
 
-* While working as an iOS Engineer for Amazon Ring at Deviget LLC, I contributed to the "Neighbors" project by implementing end-to-end functionalities. My responsibilities included designing and developing features, collaborating with cross-functional teams, and ensuring the application met high standards of performance and reliability.
+* While working as an iOS Engineer for Amazon Ring, I contributed to the "Neighbors" project by implementing end-to-end functionalities. My responsibilities included designing and developing features, collaborating with cross-functional teams, and ensuring the application met high standards of performance and reliability.
 
 ### Publishers Clearing House (August 2017 - November 2020)
 *iOS Technical Leader*
