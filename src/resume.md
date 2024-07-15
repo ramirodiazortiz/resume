@@ -98,58 +98,93 @@ I thrive in dynamic environments, leveraging my strong communication and proacti
 
 ## Experience
 
-### Honest Day's Work (now Door) (August 2022 - present)
-*iOS Lead Engineer*
+### Honest Day's Work (now Door) (August 2022 - Present)
+**iOS Lead Engineer**
 
-As the iOS Lead Engineer at Honest Day's Work, now Door, I am responsible for end-to-end implementations, architecture design, and CI/CD pipeline setups. I also lead the implementation of tooling and manage the interviewing process for new hires. My leadership responsibilities include planning in conjunction with the product team, and ensuring the technical excellence of our iOS applications.
+As the iOS Lead Engineer at Honest Day's Work, now Door, I am responsible for end-to-end implementations, architecture design, and CI/CD pipeline setups. I also lead the implementation of tooling and manage the interviewing process for new hires. My leadership responsibilities include planning in conjunction with the product team and ensuring the technical excellence of our iOS applications.
+
+#### James App
+- **Link**: [https://apps.apple.com/ar/app/james-rider/id1643202375](https://apps.apple.com/ar/app/james-rider/id1643202375)
+- **Description**: James App connects users directly with professional drivers, allowing them to book and manage rides easily. The app offers features such as scheduling trips, tracking drivers, viewing friend recommendations, and booking rides for others. It supports drivers in operating their own businesses by keeping 95% of the fare and 100% of the tip. Recent updates include a referral bonus system for users to earn ride credits.
+
+#### Latch App
+- **Link**: [https://apps.apple.com/us/app/latch-app/id1062355375](https://apps.apple.com/us/app/latch-app/id1062355375)
+- **Description**: Latch App provides a comprehensive platform for managing building access. It allows users to unlock doors with their smartphones, manage guest access, and monitor building entries. The app integrates with smart home devices and offers features such as remote access and real-time notifications. It aims to enhance security and convenience for residents and property managers.
+
+---
 
 ### Airtime (June 2021 - June 2022)
-*iOS Manager*
+**iOS Manager**
 
-* As the iOS Manager for Airtime, I led the development of end-to-end implementations and participated in the architecture design of the iOS application. My role included management duties such as conducting one-on-one meetings, planning with the product team, and ensuring the successful execution of projects from inception to deployment.
+As the iOS Manager for Airtime, I led the development of end-to-end implementations and participated in the architecture design of the iOS application. My role included management duties such as conducting one-on-one meetings, planning with the product team, and ensuring the successful execution of projects from inception to deployment.
+
+#### Cantina App
+- **Link**: [https://apps.apple.com/es/app/cantina/id1018368216](https://apps.apple.com/es/app/cantina/id1018368216)
+- **Description**: Cantina is a mobile app designed for discovering and ordering from local eateries. Users can browse menus, place orders, and make payments through the app. It supports various dining options, including takeout and delivery, and provides users with personalized recommendations based on their preferences.
+
+---
 
 ### Amazon Ring (November 2020 - June 2021)
-*iOS Engineer*
+**iOS Engineer**
 
-* While working as an iOS Engineer for Amazon Ring, I contributed to the "Neighbors" project by implementing end-to-end functionalities. My responsibilities included designing and developing features, collaborating with cross-functional teams, and ensuring the application met high standards of performance and reliability.
+While working as an iOS Engineer for Amazon Ring, I contributed to the "Neighbors" project by implementing end-to-end functionalities. My responsibilities included designing and developing features, collaborating with cross-functional teams, and ensuring the application met high standards of performance and reliability.
+
+#### Neighbors App
+- **Link**: [https://apps.apple.com/us/app/neighbors-by-ring/id1218902777](https://apps.apple.com/us/app/neighbors-by-ring/id1218902777)
+- **Description**: Neighbors by Ring is a community-focused app that helps users stay informed about local safety. It allows users to share and receive real-time crime and safety alerts, post updates, and view video footage from Ring devices in their neighborhood. The app fosters community collaboration to enhance safety and security.
+
+---
 
 ### Publishers Clearing House (August 2017 - November 2020)
-*iOS Technical Leader*
+**iOS Technical Leader**
 
-* Architect of the main features for every iOS app in the company. Technical leader. Argentinian Team leader.
+Architect of the main features for every iOS app in the company. Technical leader. Argentinian Team leader.
 
 ### Publishers Clearing House (August 2016 - November 2020)
-*iOS & Android Developer*
+**iOS & Android Developer**
 
 * **PCH App:** iOS Swift app based on both web and native games that allow the user to register and win tokens/cash that can be used within the platform. Over 60k DAU for almost 3 years. I was in charge of the main architecture/features of the app.
 * **Quizmania:** Allows the user to play real-time quiz contests using web sockets. Team leader (10+ people)
 * **Slots App:** Part of the PCH app, extracted as a standalone game.
 
+#### PCH App
+- **Link**: [https://apps.apple.com/us/app/pch-real-prizes-fun-games/id1472050293](https://apps.apple.com/us/app/pch-real-prizes-fun-games/id1472050293)
+- **Description**: The PCH (Publishers Clearing House) app offers users the opportunity to play games and win real prizes. It features a variety of games, sweepstakes, and instant win opportunities. Users can participate in daily giveaways and accumulate tokens for additional chances to win.
+
+#### PCH Slots App
+- **Link**: [https://apps.apple.com/us/app/pch-slots/id1475662207](https://apps.apple.com/us/app/pch-slots/id1475662207)
+- **Description**: PCH Slots is a mobile app that provides a virtual slot machine experience with the chance to win real prizes. Users can spin the slots, earn rewards, and participate in daily contests. The app includes various themed slot games and offers bonus rounds and jackpots.  
+
+---
+
 ### Freelance (June 2014 - Present)
-*Mobile Developer*
+**Mobile Developer**
 
 * **Football Challenge:** iOS application to bet and share the results of the 2014 FIFA World Cup games. FootballChallenge allowed users to select a team to follow and add its matches to the native calendar. Additionally, the application shows a leaderboard based on a top-ten ranking. Users could log in through Facebook and Twitter.
 * **Beautybooked:** App that provides access to the best salons and spas. Users could search for salons and spas using a wide variety of criteria, including name, location, date, and time, and book appointments instantly.
-
   Provided support to stabilize the application and fixed several errors related to the user interface, which was developed entirely programmatically.
+* **Various Projects:** Working with different US clients as a freelance consultant (for both iOS and Android applications).
 
-* **I’m also working with different US clients as a freelance consultant (for both iOS and Android applications).**
+---
 
 ### Avature (June 2013 - June 2016)
-*Mobile Developer*
+**Mobile Developer**
 
-* **Avature Mobile App:** iOS main developer and mobile core developer (shared by both iOS and Android applications). Backend developer for APIs consumed by mobile applications.
+iOS main developer and mobile core developer (shared by both iOS and Android applications). Backend developer for APIs consumed by mobile applications.
 
-  The application is an extension of the Avature CRM platform that brings a new level of usability for the Events Management and Hiring Manager solutions. This application synchronizes information with the Avature platform and can be used both online and offline. People records created during events can also be registered in offline mode.
+#### Avature
+- **Link**: [https://apps.apple.com/ar/app/avature/id878306900](https://apps.apple.com/ar/app/avature/id878306900)
+- **Description**: The Avature mobile app is an extension of the Avature platform that allows key stakeholders to perform essential recruiting tasks while on the go, even with no internet connection. Available modules include Events, Hiring Manager, and Recruiter. The app supports offline session handling and multi-language fields, aiming to provide a comprehensive mobile recruiting solution.
 
-  Each module of the application can create people records according to a fully customized form pre-defined using the CRM. Moreover, people records can be displayed using different levels of detail. The application can display multiple file types. Many parts of the application can be personalized according to the brand.
+---
 
 ### FDV Solutions (April 2011 - April 2013)
-*iOS Developer*
+**iOS Developer**
 
 * **AMC Theaters:** iOS main developer. The goal was to update the old version of the application from scratch. Participated actively during the whole process, from the very first technical meetings up to the final delivery. The application, available in the Apple Store, lets you find theaters using your current location or zip code. Additionally, you can find movies according to your favorite genres, look at synopses and trailers, and buy tickets. Developed the main architecture, including the networking layer, and added features related to augmented reality using the Aurasma SDK.
 * **Someecards:** Provided support, including new features. The application allows users to view and share different types of funny cards and save cards as favorites. The goal was to enjoy the same card categories offered on the website.
 * **ROOST:** iOS developer. Roost is a social marketing platform designed to launch different campaigns through social networks like Twitter, Facebook, and LinkedIn, and get results according to the campaign's impact.
 * **United Nations Foundation App:** iOS developer. The United Nations Foundation is a mobile application that provides information about initiatives improving children's health, empowering women and girls, combating climate change, etc. Users can donate and support different campaigns within the application.
-
   The iOS application was compatible with accessibility features. I also participated in the maintenance of the Pieces of Peace iPhone app.
+
+
