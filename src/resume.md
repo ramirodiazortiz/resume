@@ -3,7 +3,6 @@
 
 ## Personal Info
 
-* **Date of birth:** 30/01/1989
 * **Location:** Buenos Aires, Argentina
 * **Languages:** Spanish, English
 
@@ -15,9 +14,9 @@
 
 ## Overview
 
-I am a highly detailed professional with extensive experience in mobile development, management, and technical leadership. My career spans numerous high-profile projects where I have demonstrated a strong commitment to quality, performance, and scalability. I am adept at end-to-end software development, including analysis, risk management, architecture design, and implementation.
+I am a highly detailed professional with a wealth of experience in mobile development, management, and technical leadership. My career spans numerous high-profile projects where I have demonstrated a strong commitment to quality, performance, and scalability. I excel in end-to-end software development, including analysis, risk management, architecture design, and implementation.
 
-I thrive in dynamic environments, leveraging my strong communication and proactive problem-solving skills. My leadership approach focuses on fostering trust and loyalty within teams and aligning development practices with business objectives. I excel in ensuring compliance with policies and standards, and I am highly flexible in adapting to the evolving needs of the business.
+I thrive in challenging environments, leveraging my strong communication skills and ability to resolve complex issues effectively. My leadership approach focuses on fostering trust and loyalty within teams and aligning development practices with business objectives. I ensure compliance with policies and standards and adapt to the evolving needs of the business.
 
 ## Education
 
@@ -27,78 +26,70 @@ I thrive in dynamic environments, leveraging my strong communication and proacti
 
 * Swift, Objective-C (iOS), Java, Kotlin (Android), Ruby, C++, PHP, MySQL, C, Perl, Bash, Python
 
-## General Development Skills
-
-* Advanced experience with Object-Oriented Programming
-* Advanced experience modeling and analyzing mobile software architectures
-* Strong skills in building native iOS applications based on the iOS SDK
-* Good skills in building native Android applications based on the Android SDK
-* Advanced experience in creating user interfaces
-* Advanced knowledge of iOS and Android user experience guidelines
-* Advanced skills in Xcode, Android Studio, PHPStorm, IntelliJ, and Eclipse
-* Advanced experience in architectures for network layers
-* Agile development
-* MVVM Architecture
+## Programming & Development Skills
+* Object-Oriented Programming
+* Software architecture & design
+* User interfaces implementation (UIKit & Swift UI)
+* Architecture for network layers
+* WebSockets
+* MVVM & TCA Architecture
 * CI/CD implementation
-
-## Main iOS Frameworks & Tools
-
-* Advanced experience with Foundation, CoreLocation, CFNetwork, MapKit, Social, UIKit, and Twitter frameworks
-* Experience with AddressBook, AVKit, CoreGraphics, ImageIO, QuartzCore, and QuickLook frameworks
-* Advanced experience with adaptive layout (UIKit)
-* Advanced experience with both UIView and Core animations (UIKit)
-* Advanced experience implementing Units
-* Advanced experience in automating UI tests for iOS applications
-* Advanced experience with accessibility features
-* Experience using distribution tools like HockeyApp and Testflight
-* Advanced experience using CocoaPods, Carthage and SPM for framework distribution
-* Experience with local and remote notifications
-* Experience using Instruments
-* Strong skills in publishing applications to app stores
-* Experience with Combine Framework
-* Experience with The Composable Architecture (TCA) framework
-* Swift UI
-
-## Other Frameworks / Technical Skills / Relevant Tools
-
-* Relevant skill using Djinni, a tool created by Dropbox for generating cross-language bridge code (used by both iOS and Android)
-* Experience with Lottie Framework for rendering After Effects animations
-* Experience with Fabric (Firebase)
-* Experience with Heap, Leanplum and Mixpanel for analytics, A/B testing, push notifications, marketing, in-app messaging, etc.
-* Experience working with Feature flags.
-* Experience with Pusher for creating real-time applications
-* Relevant experience with relational databases
-* Advanced experience using different ad providers (Mopub, Nimbus, AppNexus, Facebook Ads, Google Ads, etc.)
-* Jira, VersionOne, Trello, Notion
-* Confluence
-* InVision, Figma, and Adobe XD
+* UIView and Core animations (UIKit)
+* Units
+* UI tests
+* Accessibility features
+* Combine Framework
+* Relational databases
+* Local and remote notifications
+* App Distribution (Testflight, Enterprise, App Store)
 * Design System
-* Open API
 
-## Soft Skills
+## Tools & Frameworks
+* CocoaPods, Carthage, and SPM for framework distribution
+* Instruments
+* Firebase
+* Fastlane
+* Crashlytics
+* Open API & Swagger
+* InVision, Figma, Adobe XD & Lottie
+* Heap, Leanplum, and Mixpanel for analytics, A/B testing, push notifications, marketing, in-app messaging, etc.
+* Feature flags
+* Ad providers (Mopub, Nimbus, AppNexus, Facebook Ads, Google Ads, etc.)
+* Git (GitHub, GitLab), SVN
+* Postman
+* Charles, Proxyman
 
+## Management, Soft Skills & Development Practices
 * Strong capacity for planning
 * Team leadership
 * Management
-* Scrum
 * Strong communication
 * Recruiting processes
 * Ability to create plans for project development
 * Periodic team review (providing feedback for each member based on both soft and technical skills)
 * Review of career plans
+* Agile development
+* Scrum
+* Jira, VersionOne, Notion, Confluence
 
-## Platforms & Tools
-
-* OS X, Linux, Windows
-* Xcode, Android Studio, Eclipse, IntelliJ IDEA
-* Git (GitHub, GitLab), SVN
-* Postman
-* Charles, Proxyman 
-* Vim, Sublime
 
 ## Experience
+### Howland Mobile (March 2025 - Present)
+**iOS Technical Lead Engineer**
 
-### Honest Day's Work (now Door) (August 2022 - Present)
+• **Technical Recommendations**: Provide expert guidance on iOS services, industry trends, and third-party providers to enhance application functionality and performance.
+
+• **Mobile Codebase Leadership**: Guide mobile code development and documentation to ensure easy onboarding and collaboration for future iOS, Android, and backend engineers.
+
+• **Backend Liaison**: Serve as primary liaison with backend team, leading best practices for mobile APIs and alerting leadership of any deviations that could impact iOS performance.
+
+• **Technical Communication**: Facilitate communication between company leadership, client, and backend engineers, translating business requirements into technically feasible solutions.
+
+• **Application Reliability**: Assume primary responsibility for iOS app reliability, performance, and stability, proactively identifying potential issues and immediately notifying leadership of risks.
+
+• **Platform Setup & Coordination**: Oversee configuration of necessary accounts and platforms (Apple Developer Program), coordinating with leadership and client to maintain access and ensure service redundancy.
+
+### Honest Day's Work - Latch (now Door) (August 2022 - Diciembre 2024)
 **iOS Lead Engineer**
 
 As the iOS Lead Engineer at Honest Day's Work, now Door, I am responsible for end-to-end implementations, architecture design, and CI/CD pipeline setups. I also lead the implementation of tooling and manage the interviewing process for new hires. My leadership responsibilities include planning in conjunction with the product team and ensuring the technical excellence of our iOS applications.
@@ -116,7 +107,7 @@ As the iOS Lead Engineer at Honest Day's Work, now Door, I am responsible for en
 ### Airtime (June 2021 - June 2022)
 **iOS Manager**
 
-As the iOS Manager for Airtime, I led the development of end-to-end implementations and participated in the architecture design of the iOS application. My role included management duties such as conducting one-on-one meetings, planning with the product team, and ensuring the successful execution of projects from inception to deployment.
+As the iOS Manager, I led the development of end-to-end implementations and participated in the architecture design of the iOS application. My role included management duties such as conducting one-on-one meetings, planning with the product team, and ensuring the successful execution of projects from inception to deployment.
 
 #### Cantina App
 - **Link**: [https://apps.apple.com/es/app/cantina/id1018368216](https://apps.apple.com/es/app/cantina/id1018368216)
@@ -138,14 +129,10 @@ While working as an iOS Engineer for Amazon Ring, I contributed to the "Neighbor
 ### Publishers Clearing House (August 2017 - November 2020)
 **iOS Technical Leader**
 
-Architect of the main features for every iOS app in the company. Technical leader. Argentinian Team leader.
+Architect of the main features for every iOS app in the company. Technical leader.
 
 ### Publishers Clearing House (August 2016 - November 2020)
 **iOS & Android Developer**
-
-* **PCH App:** iOS Swift app based on both web and native games that allow the user to register and win tokens/cash that can be used within the platform. Over 60k DAU for almost 3 years. I was in charge of the main architecture/features of the app.
-* **Quizmania:** Allows the user to play real-time quiz contests using web sockets. Team leader (10+ people)
-* **Slots App:** Part of the PCH app, extracted as a standalone game.
 
 #### PCH App
 - **Link**: [https://apps.apple.com/us/app/pch-real-prizes-fun-games/id1472050293](https://apps.apple.com/us/app/pch-real-prizes-fun-games/id1472050293)
@@ -181,10 +168,5 @@ iOS main developer and mobile core developer (shared by both iOS and Android app
 ### FDV Solutions (April 2011 - April 2013)
 **iOS Developer**
 
-* **AMC Theaters:** iOS main developer. The goal was to update the old version of the application from scratch. Participated actively during the whole process, from the very first technical meetings up to the final delivery. The application, available in the Apple Store, lets you find theaters using your current location or zip code. Additionally, you can find movies according to your favorite genres, look at synopses and trailers, and buy tickets. Developed the main architecture, including the networking layer, and added features related to augmented reality using the Aurasma SDK.
-* **Someecards:** Provided support, including new features. The application allows users to view and share different types of funny cards and save cards as favorites. The goal was to enjoy the same card categories offered on the website.
-* **ROOST:** iOS developer. Roost is a social marketing platform designed to launch different campaigns through social networks like Twitter, Facebook, and LinkedIn, and get results according to the campaign's impact.
-* **United Nations Foundation App:** iOS developer. The United Nations Foundation is a mobile application that provides information about initiatives improving children's health, empowering women and girls, combating climate change, etc. Users can donate and support different campaigns within the application.
-  The iOS application was compatible with accessibility features. I also participated in the maintenance of the Pieces of Peace iPhone app.
-
+As an iOS Developer at FDV Solutions, I worked on multiple applications, including AMC Theaters, Someecards, ROOST, and the United Nations Foundation App. I was involved in updating, developing, and supporting these applications, ensuring they met user needs.
 
